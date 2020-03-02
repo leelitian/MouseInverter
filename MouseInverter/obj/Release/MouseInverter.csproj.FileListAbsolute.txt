@@ -1,0 +1,7 @@
+E:\Service Calculation\MouseInverter-master\MouseInverter\bin\Release\MouseInverter.exe.config
+E:\Service Calculation\MouseInverter-master\MouseInverter\bin\Release\MouseInverter.exe
+E:\Service Calculation\MouseInverter-master\MouseInverter\bin\Release\MouseInverter.pdb
+E:\Service Calculation\MouseInverter-master\MouseInverter\obj\Release\MouseInverter.csproj.CoreCompileInputs.cache
+E:\Service Calculation\MouseInverter-master\MouseInverter\obj\Release\MouseInverter.exe
+E:\Service Calculation\MouseInverter-master\MouseInverter\obj\Release\MouseInverter.pdb
+E:\Service Calculation\MouseInverter-master\MouseInverter\obj\Release\MouseInverter.csprojAssemblyReference.cache
